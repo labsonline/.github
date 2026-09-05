@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/labsonline/.github/blob/main/SECURITY.md
+    about: Never use a public issue. Use the repository's Security tab, or email git@labsonline.ca.
+  - name: Contribution policy
+    url: https://github.com/labsonline/.github/blob/main/CONTRIBUTING.md
+    about: What this organization accepts from outside contributors, and what it does not.
+  - name: Access requests and general questions
+    url: https://github.com/labsonline
+    about: The organization profile, including how to reach the maintainers.
